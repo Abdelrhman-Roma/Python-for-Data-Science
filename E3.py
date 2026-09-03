@@ -1,3 +1,9 @@
+# Copyright (c) 2026 Abdelrhman Taha
+# All Rights Reserved.
+#
+# This material is part of the Python-for-Data-Science course.
+# Unauthorized reproduction, redistribution, or commercial use is prohibited.
+
 # we learn in this video 
 #--- Escape Sequences in python --
 
